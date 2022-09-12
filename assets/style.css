@@ -1,0 +1,94 @@
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 45px;
+}
+
+header{
+    height: 70px;
+    background-color:#4EA0FF;
+    background-image: url("../img/pattern.png");
+    background-size: 280px;
+}
+
+#logo{
+    height: 35px;
+    margin-top: 25px;
+}
+
+h1{
+    margin-bottom: 0px;
+}
+
+#source-author{
+    color: #4EA0FF;
+    
+}
+
+#source{
+    margin-top: 0px;
+    color: gray;
+    margin-bottom: 0px;
+    
+    
+}
+
+#date-source{
+    color:gray;
+    margin-top: 0px;
+    font-size: x-small;
+}
+
+#first-photo-info{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+#second-photo-info{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+th:last-child{
+    width: 50%;
+}
+
+#table-title{
+    text-align: left;
+    color: white;
+    background-color: #4EA0FF;
+}
+
+.table-row-light-blue-background{
+    background-color: rgb(169, 240, 240);
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+#info{
+    color: gray;
+}
+
+#footers-div{
+    height: 170px;
+    width: 190px;
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    color: white;
+}
+
+#footers-second-div{
+    height: 170px;
+    width: 190px;
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+    color: white;
+}
+
