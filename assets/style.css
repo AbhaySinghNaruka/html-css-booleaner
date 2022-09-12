@@ -92,3 +92,8 @@ th:last-child{
 tbody tr:nth-child(odd){
     background-color: #cee5ff;
 }
+
+.footers-image p{
+    padding-left: 7px;
+    padding-top: 5px;
+}
